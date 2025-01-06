@@ -96,7 +96,7 @@ Bot ? Maybe
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/Widiskel/mango-testnet-bot.git && cd mango-testnet-bot
+   git clone https://github.com/adicahyadir/mango-testnet-bot.git && cd mango-testnet-bot
    ```
 2. Run
    ```
@@ -115,7 +115,7 @@ Bot ? Maybe
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/mango-testnet-bot.git
+   git clone https://github.com/adicahyadir/mango-testnet-bot.git
    ```
    and cd to project dir
    ```
