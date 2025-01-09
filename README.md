@@ -1,177 +1,161 @@
-# MANGO TESTNET BOT
+```markdown
+# 🚀 MANGO TESTNET BOT
 
-## Table Of Contents
-- [MANGO TESTNET BOT](#mango-testnet-bot)
-  - [Table Of Contents](#table-of-contents)
-  - [Prerequisite](#prerequisite)
-  - [Join My Telegram Channel](#join-my-telegram-channel)
-  - [Initverse Incentive Testnet Airdrop](#initverse-incentive-testnet-airdrop)
-  - [BOT FEATURE](#bot-feature)
-  - [Setup \& Configure BOT](#setup--configure-bot)
+Automate your daily tasks on the Mango Testnet with ease! Multi-account support, proxy integration, and a suite of automated features to help you claim rewards, swap tokens, bridge assets, and more.
+
+---
+
+## 📋 Table Of Contents
+- [🚀 MANGO TESTNET BOT](#-mango-testnet-bot)
+  - [📋 Table Of Contents](#-table-of-contents)
+  - [🔧 Prerequisite](#-prerequisite)
+  - [📢 Join My Telegram Channel](#-join-my-telegram-channel)
+  - [💸 Initverse Incentive Testnet Airdrop](#-initverse-incentive-testnet-airdrop)
+  - [✨ BOT FEATURES](#-bot-features)
+  - [⚙️ Setup & Configure BOT](#️-setup--configure-bot)
     - [Linux](#linux)
     - [Windows](#windows)
-  - [Update Bot](#update-bot)
-  - [IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)](#important-note-read-it-this-is-not-decoration)
-  - [CONTRIBUTE](#contribute)
-  - [SUPPORT](#support)
+  - [🔄 Update Bot](#-update-bot)
+  - [⚠️ IMPORTANT NOTE](#️-important-note)
+  - [🤝 CONTRIBUTE](#-contribute)
+  - [💖 SUPPORT](#-support)
 
-## Prerequisite
-- Git
-- Node JS (v22)
+---
 
-## Join My Telegram Channel
-```
-                                                          
-                      ...                                 
-                     .;:.                                 
-                    .;ol,.                                
-                   .;ooc:'                                
-            ..    .;ooccc:'.    ..                        
-          .',....'cdxlccccc;.....,'.                      
-         .;;..'';clolccccccc:,''..;;.                     
-        ':c'..':cccccccccccccc;...'c:.                    
-       ':cc,.'ccccccccccccccccc:..;cc:'                   
-    ...:cc;.':cccccccccccccccccc:..:cc:...                
-   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
-  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
-  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
-  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
- .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
- .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
- .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
-  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
-    ;KX:         ;o::l:;cc;o:.        ;KK;                
-     :KK:.       ,d,cd,'ol'o:       .:0K:                 
-      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
-       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
-         .','.. .lX0doooodOXd.  .','.                     
-                 .,okkddxkd;.                             
-                    'oxxd;.                               
-   ........................................                              
-   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
-   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
-   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
-   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
-   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
-   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................
+## 🔧 Prerequisite
+- **Git**
+- **Node.js** (v22)
+- Register on Mango Testnet using a creator referral code
+- Fund Mango Wallet with **ETH (Sepolia)** and **Testnet BNB**
 
-```                                      
+---
 
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
+## 📢 Join Telegram Channel
 
-## Initverse Incentive Testnet Airdrop
-#New
+Stay updated with the latest bot releases and airdrop opportunities.  
+Join here: [**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
 
-Mango Testnet 
+---
 
-➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=5MXeyS)
-- Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
-- Backup Phrase
-- Claim Faucet on your wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=5MXeyS) 
-- Complete Bind Social Media Accounts and JOIN NOW
-- Go to [Event Page](https://task.testnet.mangonetwork.io/events)
-- Complete Task on the Task List ( Swap , Bridge )
-- Login Daily
-- Done
+## 💸 Initverse Incentive Testnet Airdrop
 
-Bot ? Maybe
+### 🌟 Mango Testnet Airdrop Instructions
+1. **Register**: [Click Here](https://task.testnet.mangonetwork.io/?invite=5MXeyS)
+2. **Download Mango Wallet**: [Chrome Extension](https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd)
+3. Backup your wallet phrase.
+4. **Claim Faucet**: Use your wallet extension.
+5. Visit [Mango Web](https://task.testnet.mangonetwork.io/?invite=5MXeyS):
+   - Bind your social media accounts.
+   - Join the program.
+6. Visit the [Event Page](https://task.testnet.mangonetwork.io/events):
+   - Complete tasks (e.g., Swap, Bridge).
+   - Log in daily for rewards.
+7. Done! 🎉
 
-**LFG**
+---
 
-## BOT FEATURE
-- Multi Account 
-- Support PK
-- Proxy Support
-- Daily Claim Faucet
-- Daily Mango Swap 
-- Daily BeingDex Beta DAPP
-- Daily Check In
-- Daily Bridge (**Soon**)
+## ✨ BOT FEATURES
+- Multi-Account Support  
+- Proxy Integration  
+- Automated Daily Tasks:
+  - Faucet Claim
+  - Mango Swap
+  - BeingDex Beta DApp Tasks
+  - Check-In
+  - USDT Bridge
 
-## Setup & Configure BOT
+---
+
+## ⚙️ Setup & Configure BOT
 
 ### Linux
-1. Clone project repo
-   ```
+1. Clone the project repository:
+   ```bash
    git clone https://github.com/adicahyadir/mango-testnet-bot.git && cd mango-testnet-bot
    ```
-2. Run
-   ```
+2. Install dependencies and set up:
+   ```bash
    npm install && npm run setup
    ```
-3. Configure your accounts
-   ```
+3. Configure accounts:
+   ```bash
    nano accounts/accounts.js
    ```
-4. To run Auto TX
+4. Configure bot settings and proxy:
+   ```bash
+   nano config/config.js
+   nano config/proxy_list.js
    ```
+5. Start the bot:
+   ```bash
    npm run start
    ```
-   
+
 ### Windows
-1. Open your `Command Prompt` or `Power Shell`.
-2. Clone project repo
-   ```
+1. Open Command Prompt or PowerShell.
+2. Clone the repository:
+   ```bash
    git clone https://github.com/adicahyadir/mango-testnet-bot.git
-   ```
-   and cd to project dir
-   ```
    cd mango-testnet-bot
    ```
-3. Run 
-   ```
+3. Install dependencies and set up:
+   ```bash
    npm install && npm run setup
    ```
-5. Navigate to `mango-testnet-bot` directory. 
-6. Navigate to `accounts` directory.
-7. Now open `acccounts.js` and setup your accounts. 
-8. Now Back to `mango-testnet-bot` directory and Navigate to `config` directory and adjust the `proxy_list.js` as needed.
-9.  Back to `mango-testnet-bot` directory.
-10. To start the app open your `Command Prompt` or `Power Shell`
-11. To run auto Tx Bot
-    ```
-    npm run start
-    ```
-
-## Update Bot
-
-To update bot follow this step :
-1. run
+4. Configure accounts (`accounts/accounts.js`), bot settings (`config/config.js`), and proxy (`config/proxy_list.js`).
+5. Start the bot:
+   ```bash
+   npm run start
    ```
+
+---
+
+## 🔄 Update Bot
+1. Pull the latest changes:
+   ```bash
    git pull
    ```
-   or
-   ```
-   git pull --rebase
-   ```
-   if error run
-   ```
+   If errors occur:
+   ```bash
    git stash && git pull
    ```
-2. run
-   ```
+2. Update dependencies:
+   ```bash
    npm update
    ```
-3. start the bot
-4. if any eror happen check `log/app.log`
+3. Restart the bot.
 
+---
 
-## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
-DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
+## ⚠️ IMPORTANT NOTE
 
+> **DWYOR** *(Do Your Own Research)*  
+> Always use a new wallet when running the bot. I am not responsible for any loss of assets.
 
-## CONTRIBUTE
+### How to Get Bridge Raw Data:
+1. Perform a manual bridge transaction (e.g., **ETH → Mango** with a small amount like 0.0001 USDT).
+2. Approve token spend and bridge transaction.
+3. Check your wallet history for the transaction hash.
+4. Use explorers to retrieve input data as HEX:
+   - **ETH Sepolia Explorer**: [https://sepolia.etherscan.io/](https://sepolia.etherscan.io/)
+   - **BSC Testnet Explorer**: [https://testnet.bscscan.com/](https://testnet.bscscan.com/)
 
-Feel free to fork and contribute adding more feature thanks.
+---
 
-## SUPPORT
+## 🤝 CONTRIBUTE
 
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
+Contributions are welcome! Fork the repository, add features, and submit a pull request. Thank you!
 
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
+---
 
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
+## 💖 SUPPORT
+
+If you appreciate my work and want to support future projects, you can:  
+⭐ **Star this repository** or buy me a coffee:
+
+- **EVM**: `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`  
+- **Solana**: `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
+
+---
+
+> **Let’s Mango and earn together! 🥭**
