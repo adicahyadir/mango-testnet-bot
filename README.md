@@ -1,4 +1,3 @@
-```markdown
 # 🚀 MANGO TESTNET BOT
 
 Automate your daily tasks on the Mango Testnet with ease! Multi-account support, proxy integration, and a suite of automated features to help you claim rewards, swap tokens, bridge assets, and more.
